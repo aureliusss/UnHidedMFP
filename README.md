@@ -1,6 +1,6 @@
 # UnHided
 ## Env Vars
-API_PASSWORD = Yourpassword
+API_PASSWORD = Cipolla29
 
 
 TRANSPORT_ROUTES = {
